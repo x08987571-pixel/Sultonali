@@ -81,6 +81,7 @@ button {
     align-items: center;
     gap: 5px;
     margin-bottom: 15px;
+    white-space: nowrap;
 }
 
 .hero__item_content_box {
